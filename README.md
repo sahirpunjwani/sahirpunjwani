@@ -1,7 +1,7 @@
 # I’m the @sahirpunjwani
 - I’m interested in programming!
 - I’m currently learning **JS**
-- _My Recent Project_ : https://sahirpunjwani.github.io/tryit-suite/
+- _All Projects_ : [Homepage](https://sahirpunjwani.github.io)
 - ⚡ Fun fact: I actually don't know what I will do next!
 
 <!---
